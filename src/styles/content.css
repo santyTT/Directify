@@ -1,0 +1,19 @@
+.container-top-text {
+    color: #fff;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    align-items: center;
+}
+
+.container-top-text h1 {
+    font-size: 4.5rem;
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 1rem;
+}
+
+.resaltxt {
+    color: #ffa400;
+}
